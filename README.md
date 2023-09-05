@@ -1,4 +1,4 @@
-[![MasterHead]([your image link](https://top-fon.com/uploads/posts/2023-01/1674983718_top-fon-com-p-fon-dlya-prezentatsii-minimalizm-fizika-18.jpg))]([your GitHub link](https://github.com/DashaMax/DashaMax))
+![banner](https://github.com/DashaMax/DashaMax/assets/110603766/d2053cfb-12de-4be6-b41d-f1d6a0d38007)
 
 <!--
 **DashaMax/DashaMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
