@@ -1,6 +1,10 @@
 <h1 align="center">Hi! I am Dasha Max</h1>
 <h3 align="center">Python developer and devops engineer</h3>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dashamax&show_icons=true&locale=en" alt="dashamax"/>
+</p>
+
 <h3 align="left">Backend Development</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -76,5 +80,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dashamax&show_icons=true&locale=en" alt="dashamax" /></p>
